@@ -40,17 +40,22 @@ Welcome to the **MC 15th Anniversary Cape** repository! Here you'll find a step-
    bedrockUrlBase: 'https://net.web.minecraft-services.net/'
    })
    ```
-   ![Step 5 Screenshot](screenshot5.png)
+   
+   ![Step 5 Screenshot](https://github.com/ottersek/MC-15th-Anniversary-Cape/assets/121310374/f35f6f7f-0f47-48b5-aa7a-68221cc8393a)
+
+
 
 6. **Wait for Confirmation**  
    The status will show as "pending". Keep the tab open and wait for 1 to 5 minutes. ⏳
    
-   ![Step 6 Screenshot](screenshot6.png)
+   ![Step 6 Screenshot](https://github.com/ottersek/MC-15th-Anniversary-Cape/assets/121310374/509ed833-a558-49f8-8581-f6d82c77024d)
+
 
 7. **Check Your Cape**  
-   Go to your Minecraft profile and select "Modify Appearance" to check if the cape has been added! 👗✨
+   Go to your Minecraft profile and select "Modify Appearance" to check if the cape has been added. If yes, enable it but if no, repeat the process! 👗✨
    
-   ![Step 7 Screenshot](screenshot7.png)
+   ![Step 7 Screenshot](https://github.com/ottersek/MC-15th-Anniversary-Cape/assets/121310374/f15ded29-8b4f-458c-b5c2-0e4a823352b6)
+
 
 ## Screenshots
 
@@ -58,16 +63,17 @@ After each step, please refer to the corresponding screenshot for visual guidanc
 
 ## Credits
 
-Thank you for your time and trust! If you use this script, please give credit to me. 🙏
+Thank you for your time and trust! If you use this script to make other scripts, please give credit to me. 🙏
 
 - **GitHub**: [github.com/ottersek](https://github.com/ottersek)
 - **Discord**: @karolshearts
 - **Instagram**: [@ottersec](https://instagram.com/ottersec)
 
-Feel free to reach out if you have any questions or need further assistance. Enjoy your new cape! 🎉
+Feel free to reach out if you have any questions or need further assistance (u can use issues too). Enjoy your new cape! 🎉
 
 ---
 
 If you found this helpful, please give a ⭐ on my GitHub repository!
 
 Thank you! 😊
+ottersek.
