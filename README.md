@@ -30,16 +30,16 @@ Welcome to the **MC 15th Anniversary Cape** repository! Here you'll find a step-
 5. **Run the Script**  
    Copy and paste the script provided into the console and press `Enter`. 📜
 
-   ```javascript
+   ```javascript 
    MinecraftUser.claim15YearCape({
-  javaUrlBase: 'https://api.minecraftservices.com/',
-  capes: [],
-  capeId: 'ef9e95b6-48a3-4fd7-93d4-7e7d9448d2f1',
-  bedrockEntitlementOffer: '7118a7d5-240e-4f6d-8959-5269ba041938',
-  bedrockEntitlementId: 'b0bf1091-bb6b-4bd7-80f9-6e43f0d03e39',
-  bedrockUrlBase: 'https://net.web.minecraft-services.net/'
-})```
-   
+   javaUrlBase: 'https://api.minecraftservices.com/',
+   capes: [],
+   capeId: 'ef9e95b6-48a3-4fd7-93d4-7e7d9448d2f1',
+   bedrockEntitlementOffer: '7118a7d5-240e-4f6d-8959-5269ba041938',
+   bedrockEntitlementId: 'b0bf1091-bb6b-4bd7-80f9-6e43f0d03e39',
+   bedrockUrlBase: 'https://net.web.minecraft-services.net/'
+   })
+   ```
    ![Step 5 Screenshot](screenshot5.png)
 
 6. **Wait for Confirmation**  
